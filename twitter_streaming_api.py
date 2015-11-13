@@ -5,10 +5,10 @@ import tweepy
 import sys
 
 #variables that contains user credentials to access API : Authentication details
-consumer_key = 'GrHbT3dDzFcn3ipCzCQILs12r'
-consumer_secret = '4AmVh9oTJuSi7kYbhB8GUew2DfJKa6QgVjLsz3SzAt9r5cLQiV'
-access_token = '222357703-yOBXfn0pZOrTCPdKSVsHGXHIlrPQJ5MymKC2X9Zb'
-access_token_secret = 'tUVZOQ3cSNqVkoDBK0M6ERVlbtw7dzlg6piHSiYrgsLP1'
+consumer_key = '*******************************************'
+consumer_secret = '*******************************************'
+access_token = '*******************************************'
+access_token_secret = '*******************************************'
 
 #This is a listener for hearing data
 class StdOutListener(tweepy.StreamListener):
